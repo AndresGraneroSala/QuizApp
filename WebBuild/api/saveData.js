@@ -1,9 +1,16 @@
-// saveData.js
 const fs = require('fs');
 
-module.exports = (req, res) => {
-    const data = req.body.data;
-    fs.writeFileSync('data.txt', JSON.stringify(data));
-    res.status(200).send('Datos guardados correctamente en data.txt');
+// Nombre del archivo que se creará
+const nombreArchivo = 'hola-mundo.txt';
 
-};
+// Contenido del archivo
+const contenido = 'Hola, Mundo';
+
+// Crear el archivo y escribir el contenido
+fs.writeFile(nombreArchivo, contenido, (err) => {
+  if (err) {
+    console.error('Error al crear el archivo:', err);
+  } else {
+    console.log(`Archivo '${nombreArchivo}' creado con éxito.`);
+  }
+});
