@@ -1,8 +1,13 @@
 // saveData.js
+const fs = require('fs');
+
 module.exports = (req, res) => {
-    const fs = require('fs');
-    const data = req.body.data; // Puedes enviar los datos desde Unity en el cuerpo de la solicitud POST
-    fs.writeFileSync('ruta/del/archivo/datos.txt', JSON.stringify(data));
-    res.status(200).send('Datos guardados correctamente');
-  };
-  
+  try {
+    const data = req.body.data;
+    fs.writeFileSync('ruta/del/archivo/data.txt', JSON.stringify(data));
+    res.status(200).send('Datos guardados correctamente en data.txt');
+  } catch (error) {
+    console.error(error);
+    res.status(500).send('Error al guardar los datos');
+  }
+};
