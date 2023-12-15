@@ -1,7 +1,14 @@
 const fs = require('fs');
+const path = require('path');
 
-// Nombre del archivo que se creará
-const nombreArchivo = 'hola-mundo.txt';
+// Obtener el directorio actual
+const directorioActual = __dirname;
+
+// Obtener el directorio superior (padre)
+const directorioSuperior = path.join(directorioActual, '..');
+
+// Nombre del archivo que se creará en el directorio superior
+const nombreArchivo = path.join(directorioSuperior, 'hola-mundo.txt');
 
 // Contenido del archivo
 const contenido = 'Hola, Mundo';
