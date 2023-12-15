@@ -116,8 +116,10 @@ public class ManagerQuestions : MonoBehaviour
         panelsQuestions.Dequeue().SetActive(true);
     }
 
-    public void FinishQuestions()
+    void FinishQuestions()
     {
+        //TODO: input field para guardar el player
+        
         questionsGameObject.SetActive(false);
 
         resultTextPoints.text = $"Points : {_points}";
