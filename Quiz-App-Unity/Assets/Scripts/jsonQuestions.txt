@@ -96,9 +96,9 @@
       "CorrectOption": 0
     },
     {
-      "Statement": "¿Cuál es el juego de plataformas que presenta a un personaje con una gorra azul?",
+      "Statement": "¿Cuál es el juego de plataformas que presenta a un personaje con una gorra azul en su portada?",
       "Options": ["Mario Bros.","Super Mario Bros.", "Donkey Kong",  "Wrecking Crew"],
-      "CorrectOption": 2
+      "CorrectOption": 0
     },
     {
       "Statement": "¿Cuál es el nombre del personaje principal en el juego Castlevania?",

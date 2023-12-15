@@ -28,7 +28,10 @@ public class ManagerQuestions : MonoBehaviour
 
     [SerializeField] private GameObject results;
     [SerializeField] private Text resultTextPoints;
-    
+
+    [SerializeField] private InputField inputName;
+    [SerializeField] private SaveData saveData;
+    [SerializeField] private GameObject punctuationsObject, home;
     private void Awake()
     {
         if (sharedInstance == null)
@@ -58,10 +61,14 @@ public class ManagerQuestions : MonoBehaviour
 
     public void StartNewGame()
     {
+        
         _points = 0;
         
         questionsGameObject.SetActive(true);
-
+        punctuationsObject.SetActive(false);
+        home.SetActive(false);
+        
+        
         _randomQuestions = Get10RandomQuestions();
 
         for (int i = 0; i < _randomQuestions.Length; i++)
@@ -118,13 +125,26 @@ public class ManagerQuestions : MonoBehaviour
 
     void FinishQuestions()
     {
-        //TODO: input field para guardar el player
-        
+        home.SetActive(true);
         questionsGameObject.SetActive(false);
 
         resultTextPoints.text = $"Points : {_points}";
         results.SetActive(true);
         print("finish");
+        
+        
+        
+    }
+
+
+    public void AddPunctuation()
+    {
+        string namePlayer = string.IsNullOrEmpty(inputName.text) ? "Desconocido" : inputName.text;
+        
+        saveData.AddPunctuation($"{_points}: {namePlayer}");
+        results.SetActive(false);
+        punctuationsObject.SetActive(true);
+        saveData.SeeBestPunctuations();
     }
     
 }
