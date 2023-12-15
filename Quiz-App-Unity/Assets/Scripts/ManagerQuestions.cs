@@ -64,11 +64,11 @@ public class ManagerQuestions : MonoBehaviour
 
         _randomQuestions = Get10RandomQuestions();
 
-        for (int i = 0; i < questions.Length; i++)
+        for (int i = 0; i < _randomQuestions.Length; i++)
         {
             GameObject panelQuestion = Instantiate(panelPrefab, parentQuestions);
             panelQuestion.SetActive(false);
-            panelQuestion.GetComponent<PannelQuestion>().question = questions[i];
+            panelQuestion.GetComponent<PannelQuestion>().question = _randomQuestions[i];
             panelsQuestions.Enqueue(panelQuestion);
             
         }
