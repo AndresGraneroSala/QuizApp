@@ -29,7 +29,6 @@ public class ManagerQuestions : MonoBehaviour
     [SerializeField] private GameObject results;
     [SerializeField] private Text resultTextPoints;
     
-    [ContextMenu("init json")]
     private void Awake()
     {
         if (sharedInstance == null)
@@ -41,7 +40,8 @@ public class ManagerQuestions : MonoBehaviour
             DestroyImmediate(gameObject);
         }
     }
-
+    
+    [ContextMenu("init json")]
     private void InitJson()
     {
         QuestionContainer questionContainer = JsonUtility.FromJson<QuestionContainer>(json);
@@ -64,11 +64,11 @@ public class ManagerQuestions : MonoBehaviour
 
         _randomQuestions = Get10RandomQuestions();
 
-        for (int i = 0; i < _randomQuestions.Length; i++)
+        for (int i = 0; i < questions.Length; i++)
         {
             GameObject panelQuestion = Instantiate(panelPrefab, parentQuestions);
             panelQuestion.SetActive(false);
-            panelQuestion.GetComponent<PannelQuestion>().question = _randomQuestions[i];
+            panelQuestion.GetComponent<PannelQuestion>().question = questions[i];
             panelsQuestions.Enqueue(panelQuestion);
             
         }
@@ -119,6 +119,9 @@ public class ManagerQuestions : MonoBehaviour
     public void FinishQuestions()
     {
         questionsGameObject.SetActive(false);
+
+        resultTextPoints.text = $"Points : {_points}";
+        results.SetActive(true);
         print("finish");
     }
     

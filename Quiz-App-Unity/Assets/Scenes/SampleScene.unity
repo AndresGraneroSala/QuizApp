@@ -525,51 +525,52 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   questions:
-  - Statement: "En qu\xE9 a\xF1o se lanz\xF3 el juego Super Mario Bros. para la NES?"
+  - Statement: "\xBFEn qu\xE9 a\xF1o se lanz\xF3 el juego Super Mario Bros. para
+      la NES?"
     Options:
     - 1983
     - 1985
     - 1988
     - 1990
     CorrectOption: 1
-  - Statement: "Cu\xE1l es el nombre del fontanero en Donkey Kong?"
+  - Statement: "\xBFCu\xE1l es el nombre del fontanero en Donkey Kong?"
     Options:
     - Luigi
     - Mario
     - Wario
     - Bowser
     CorrectOption: 1
-  - Statement: "Cu\xE1l de estos juegos de arcade fue lanzado por primera vez en
-      1980?"
+  - Statement: "\xBFCu\xE1l de estos juegos de arcade fue lanzado por primera vez
+      en 1980?"
     Options:
     - Pac-Man
     - Space Invaders
     - Centipede
     - Galaga
     CorrectOption: 0
-  - Statement: "Cu\xE1l es el juego de rol japon\xE9s que se considera uno de los
-      pioneros en el g\xE9nero?"
+  - Statement: "\xBFCu\xE1l es el juego de rol japon\xE9s que se considera uno de
+      los pioneros en el g\xE9nero?"
     Options:
     - Final Fantasy
     - Dragon Quest
     - Chrono Trigger
     - The Legend of Zelda
     CorrectOption: 1
-  - Statement: "Qu\xE9 compa\xF1\xEDa lanz\xF3 la consola Atari 2600?"
+  - Statement: "\xBFQu\xE9 compa\xF1\xEDa lanz\xF3 la consola Atari 2600?"
     Options:
     - Nintendo
     - Sega
     - Atari
     - Sony
     CorrectOption: 2
-  - Statement: "En qu\xE9 a\xF1o debut\xF3 la Game Boy de Nintendo?"
+  - Statement: "\xBFEn qu\xE9 a\xF1o debut\xF3 la Game Boy de Nintendo?"
     Options:
     - 1987
     - 1989
     - 1991
     - 1993
     CorrectOption: 0
-  - Statement: "Cu\xE1l de estos juegos es conocido por popularizar el g\xE9nero
+  - Statement: "\xBFCu\xE1l de estos juegos es conocido por popularizar el g\xE9nero
       de los juegos de plataformas en la d\xE9cada de 1980?"
     Options:
     - Sonic the Hedgehog
@@ -577,30 +578,30 @@ MonoBehaviour:
     - Castlevania
     - Mega Man
     CorrectOption: 1
-  - Statement: "Qu\xE9 juego de lucha fue lanzado por Capcom en 1987?"
+  - Statement: "\xBFQu\xE9 juego de lucha fue lanzado por Capcom en 1987?"
     Options:
     - Mortal Kombat
     - Street Fighter
     - Tekken
     - King of Fighters
     CorrectOption: 1
-  - Statement: "Qui\xE9n es el personaje principal en la serie de juegos The Legend
-      of Zelda?"
+  - Statement: "\xBFQui\xE9n es el personaje principal en la serie de juegos The
+      Legend of Zelda?"
     Options:
     - Link
     - Ganondorf
     - Zelda
     - Impa
     CorrectOption: 0
-  - Statement: "En qu\xE9 a\xF1o se lanz\xF3 la consola Sega Genesis en Am\xE9rica
+  - Statement: "\xBFEn qu\xE9 a\xF1o se lanz\xF3 la consola Sega Genesis en Am\xE9rica
       del Norte?"
     Options:
     - 1988
-    - 1989
+    - 1987
     - 1990
     - 1989
     CorrectOption: 3
-  - Statement: "Cu\xE1l es el nombre del personaje principal en la serie de juegos
+  - Statement: "\xBFCu\xE1l es el nombre del personaje principal en la serie de juegos
       Metroid?"
     Options:
     - Samus
@@ -608,52 +609,53 @@ MonoBehaviour:
     - Kraid
     - Mother Brain
     CorrectOption: 0
-  - Statement: "Qu\xE9 juego populariz\xF3 el g\xE9nero de los juegos de rol occidentales
-      en la d\xE9cada de 1990?"
+  - Statement: "\xBFQu\xE9 juego populariz\xF3 el g\xE9nero de los juegos de rol
+      occidentales en la d\xE9cada de 1990?"
     Options:
     - Final Fantasy
     - Baldur's Gate
     - Diablo
     - The Elder Scrolls
     CorrectOption: 1
-  - Statement: "Cu\xE1l es el juego de carreras de karts lanzado por Nintendo en
-      1992?"
+  - Statement: "\xBFCu\xE1l es el juego de carreras de karts lanzado por Nintendo
+      en 1992?"
     Options:
     - Crash Team Racing
     - Mario Kart
     - Diddy Kong Racing
     - Sonic & All-Stars Racing Transformed
     CorrectOption: 1
-  - Statement: "Cu\xE1l es el t\xEDtulo completo del juego conocido como Duck Hunt?"
+  - Statement: "\xBFCu\xE1l es el t\xEDtulo completo del juego conocido como Duck
+      Hunt?"
     Options:
     - Duck Hunt
     - Duck Season
     - Duck Shooter
     - Quack Attack
     CorrectOption: 0
-  - Statement: "En qu\xE9 a\xF1o se lanz\xF3 la consola de juegos Atari 5200?"
+  - Statement: "\xBFEn qu\xE9 a\xF1o se lanz\xF3 la consola de juegos Atari 5200?"
     Options:
-    - 1978
+    - 1987
     - 1980
-    - 1982
+    - 1981
     - 1982
     CorrectOption: 3
-  - Statement: "Cu\xE1l de estos juegos de pelea fue lanzado por SNK en 1994?"
+  - Statement: "\xBFCu\xE1l de estos juegos de pelea fue lanzado por SNK en 1994?"
     Options:
     - Virtua Fighter
     - King of Fighters '94
     - Street Fighter II
     - Mortal Kombat II
     CorrectOption: 1
-  - Statement: "Cu\xE1l es el nombre del personaje principal en la serie Mega Man
-      de Capcom?"
+  - Statement: "\xBFCu\xE1l es el nombre del personaje principal en la serie Mega
+      Man de Capcom?"
     Options:
     - X
     - Zero
     - Mega Man
     - Protoman
     CorrectOption: 2
-  - Statement: "Cu\xE1l es el juego de aventuras gr\xE1ficas lanzado por Lucasfilm
+  - Statement: "\xBFCu\xE1l es el juego de aventuras gr\xE1ficas lanzado por Lucasfilm
       Games en 1987?"
     Options:
     - Day of the Tentacle
@@ -661,45 +663,45 @@ MonoBehaviour:
     - Monkey Island
     - Grim Fandango
     CorrectOption: 1
-  - Statement: "En qu\xE9 a\xF1o debut\xF3 la consola Super Nintendo Entertainment
+  - Statement: "\xBFEn qu\xE9 a\xF1o debut\xF3 la consola Super Nintendo Entertainment
       System (SNES)?"
     Options:
-    - 1990
+    - 1993
     - 1991
     - 1992
     - 1990
     CorrectOption: 0
-  - Statement: "Cu\xE1l es el juego de plataformas que presenta a un personaje con
-      una gorra roja y un martillo?"
+  - Statement: "\xBFCu\xE1l es el juego de plataformas que presenta a un personaje
+      con una gorra roja y un martillo?"
     Options:
     - Super Mario Bros.
     - Donkey Kong
     - Mario Bros.
     - Wrecking Crew
     CorrectOption: 2
-  - Statement: "Cu\xE1l es el nombre del personaje principal en el juego Castlevania?"
+  - Statement: "\xBFCu\xE1l es el nombre del personaje principal en el juego Castlevania?"
     Options:
     - Simon Belmont
     - Alucard
     - Dracula
     - Richter Belmont
     CorrectOption: 0
-  - Statement: "En qu\xE9 a\xF1o se lanz\xF3 el juego Tetris para Game Boy?"
+  - Statement: "\xBFEn qu\xE9 a\xF1o se lanz\xF3 el juego Tetris para Game Boy?"
     Options:
     - 1987
     - 1989
     - 1990
     - 1992
     CorrectOption: 2
-  - Statement: "Qu\xE9 juego de rol de acci\xF3n fue desarrollado por Blizzard Entertainment
-      en 1996?"
+  - Statement: "\xBFQu\xE9 juego de rol de acci\xF3n fue desarrollado por Blizzard
+      Entertainment en 1996?"
     Options:
     - Diablo
     - Baldur's Gate
     - Fallout
     - 'The Elder Scrolls II: Daggerfall'
     CorrectOption: 0
-  - Statement: "Cu\xE1l es el nombre del protagonista en la serie de juegos Metal
+  - Statement: "\xBFCu\xE1l es el nombre del protagonista en la serie de juegos Metal
       Gear?"
     Options:
     - Solid Snake
@@ -707,134 +709,136 @@ MonoBehaviour:
     - Liquid Snake
     - Venom Snake
     CorrectOption: 0
-  - Statement: "En qu\xE9 a\xF1o debut\xF3 la consola Sega Master System en Am\xE9rica
+  - Statement: "\xBFEn qu\xE9 a\xF1o debut\xF3 la consola Sega Master System en Am\xE9rica
       del Norte?"
     Options:
     - 1984
     - 1985
-    - 1986
+    - 1987
     - 1986
     CorrectOption: 3
-  - Statement: "Cu\xE1l es el juego de aventuras gr\xE1ficas que presenta al pirata
-      Guybrush Threepwood?"
+  - Statement: "\xBFCu\xE1l es el juego de aventuras gr\xE1ficas que presenta al
+      pirata Guybrush Threepwood?"
     Options:
     - The Secret of Monkey Island
     - Grim Fandango
     - Maniac Mansion
     - Day of the Tentacle
     CorrectOption: 0
-  - Statement: "En qu\xE9 a\xF1o se lanz\xF3 la consola Neo Geo de SNK?"
+  - Statement: "\xBFEn qu\xE9 a\xF1o se lanz\xF3 la consola Neo Geo de SNK?"
     Options:
-    - 1990
+    - 1989
     - 1991
     - 1992
     - 1990
     CorrectOption: 3
-  - Statement: "Cu\xE1l es el nombre del personaje principal en el juego Pac-Man?"
+  - Statement: "\xBFCu\xE1l es el nombre del personaje principal en el juego Pac-Man?"
     Options:
     - Clyde
     - Blinky
     - Inky
     - Pac-Man
     CorrectOption: 3
-  - Statement: "En qu\xE9 a\xF1o se lanz\xF3 el juego The Legend of Zelda: A Link
-      to the Past para SNES?"
+  - Statement: "\xBFEn qu\xE9 a\xF1o se lanz\xF3 el juego The Legend of Zelda: A
+      Link to the Past para SNES?"
     Options:
-    - 1991
+    - 1990
     - 1992
     - 1993
     - 1991
     CorrectOption: 3
-  - Statement: "Cu\xE1l es el juego de disparos en primera persona lanzado por id
-      Software en 1993?"
+  - Statement: "\xBFCu\xE1l es el juego de disparos en primera persona lanzado por
+      id Software en 1993?"
     Options:
     - Doom
     - Quake
     - Wolfenstein 3D
     - Duke Nukem 3D
     CorrectOption: 0
-  json: "{   \"questions\": [     {       \"Statement\": \"En qu\xE9 a\xF1o se lanz\xF3
-    el juego Super Mario Bros. para la NES?\",       \"Options\": [\"1983\", \"1985\",
-    \"1988\", \"1990\"],       \"CorrectOption\": 1     },     {       \"Statement\":
-    \"Cu\xE1l es el nombre del fontanero en Donkey Kong?\",       \"Options\": [\"Luigi\",
-    \"Mario\", \"Wario\", \"Bowser\"],       \"CorrectOption\": 1     },     {      
-    \"Statement\": \"Cu\xE1l de estos juegos de arcade fue lanzado por primera vez
-    en 1980?\",       \"Options\": [\"Pac-Man\", \"Space Invaders\", \"Centipede\",
-    \"Galaga\"],       \"CorrectOption\": 0     },     {       \"Statement\": \"Cu\xE1l
-    es el juego de rol japon\xE9s que se considera uno de los pioneros en el g\xE9nero?\",      
-    \"Options\": [\"Final Fantasy\", \"Dragon Quest\", \"Chrono Trigger\", \"The
-    Legend of Zelda\"],       \"CorrectOption\": 1     },     {       \"Statement\":
-    \"Qu\xE9 compa\xF1\xEDa lanz\xF3 la consola Atari 2600?\",       \"Options\":
-    [\"Nintendo\", \"Sega\", \"Atari\", \"Sony\"],       \"CorrectOption\": 2    
-    },     {       \"Statement\": \"En qu\xE9 a\xF1o debut\xF3 la Game Boy de Nintendo?\",      
-    \"Options\": [\"1987\", \"1989\", \"1991\", \"1993\"],       \"CorrectOption\":
-    0     },     {       \"Statement\": \"Cu\xE1l de estos juegos es conocido por
-    popularizar el g\xE9nero de los juegos de plataformas en la d\xE9cada de 1980?\",      
-    \"Options\": [\"Sonic the Hedgehog\", \"Super Mario Bros.\", \"Castlevania\",
-    \"Mega Man\"],       \"CorrectOption\": 1     },     {       \"Statement\": \"Qu\xE9
-    juego de lucha fue lanzado por Capcom en 1987?\",       \"Options\": [\"Mortal
-    Kombat\", \"Street Fighter\", \"Tekken\", \"King of Fighters\"],       \"CorrectOption\":
-    1     },     {       \"Statement\": \"Qui\xE9n es el personaje principal en la
-    serie de juegos The Legend of Zelda?\",       \"Options\": [\"Link\", \"Ganondorf\",
+  json: "{   \"questions\": [     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o se
+    lanz\xF3 el juego Super Mario Bros. para la NES?\",       \"Options\": [\"1983\",
+    \"1985\", \"1988\", \"1990\"],       \"CorrectOption\": 1     },     {      
+    \"Statement\": \"\xBFCu\xE1l es el nombre del fontanero en Donkey Kong?\",      
+    \"Options\": [\"Luigi\", \"Mario\", \"Wario\", \"Bowser\"],       \"CorrectOption\":
+    1     },     {       \"Statement\": \"\xBFCu\xE1l de estos juegos de arcade fue
+    lanzado por primera vez en 1980?\",       \"Options\": [\"Pac-Man\", \"Space
+    Invaders\", \"Centipede\", \"Galaga\"],       \"CorrectOption\": 0     },    
+    {       \"Statement\": \"\xBFCu\xE1l es el juego de rol japon\xE9s que se considera
+    uno de los pioneros en el g\xE9nero?\",       \"Options\": [\"Final Fantasy\",
+    \"Dragon Quest\", \"Chrono Trigger\", \"The Legend of Zelda\"],       \"CorrectOption\":
+    1     },     {       \"Statement\": \"\xBFQu\xE9 compa\xF1\xEDa lanz\xF3 la consola
+    Atari 2600?\",       \"Options\": [\"Nintendo\", \"Sega\", \"Atari\", \"Sony\"],      
+    \"CorrectOption\": 2     },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o
+    debut\xF3 la Game Boy de Nintendo?\",       \"Options\": [\"1987\", \"1989\",
+    \"1991\", \"1993\"],       \"CorrectOption\": 0     },     {       \"Statement\":
+    \"\xBFCu\xE1l de estos juegos es conocido por popularizar el g\xE9nero de los
+    juegos de plataformas en la d\xE9cada de 1980?\",       \"Options\": [\"Sonic
+    the Hedgehog\", \"Super Mario Bros.\", \"Castlevania\", \"Mega Man\"],      
+    \"CorrectOption\": 1     },     {       \"Statement\": \"\xBFQu\xE9 juego de
+    lucha fue lanzado por Capcom en 1987?\",       \"Options\": [\"Mortal Kombat\",
+    \"Street Fighter\", \"Tekken\", \"King of Fighters\"],       \"CorrectOption\":
+    1     },     {       \"Statement\": \"\xBFQui\xE9n es el personaje principal
+    en la serie de juegos The Legend of Zelda?\",       \"Options\": [\"Link\", \"Ganondorf\",
     \"Zelda\", \"Impa\"],       \"CorrectOption\": 0     },     {       \"Statement\":
-    \"En qu\xE9 a\xF1o se lanz\xF3 la consola Sega Genesis en Am\xE9rica del Norte?\",      
-    \"Options\": [\"1988\", \"1989\", \"1990\", \"1989\"],       \"CorrectOption\":
-    3     },     {       \"Statement\": \"Cu\xE1l es el nombre del personaje principal
-    en la serie de juegos Metroid?\",       \"Options\": [\"Samus\", \"Ridley\",
-    \"Kraid\", \"Mother Brain\"],       \"CorrectOption\": 0     },     {       \"Statement\":
-    \"Qu\xE9 juego populariz\xF3 el g\xE9nero de los juegos de rol occidentales en
-    la d\xE9cada de 1990?\",       \"Options\": [\"Final Fantasy\", \"Baldur's Gate\",
-    \"Diablo\", \"The Elder Scrolls\"],       \"CorrectOption\": 1     },     {      
-    \"Statement\": \"Cu\xE1l es el juego de carreras de karts lanzado por Nintendo
-    en 1992?\",       \"Options\": [\"Crash Team Racing\", \"Mario Kart\", \"Diddy
-    Kong Racing\", \"Sonic & All-Stars Racing Transformed\"],       \"CorrectOption\":
-    1     },     {       \"Statement\": \"Cu\xE1l es el t\xEDtulo completo del juego
-    conocido como Duck Hunt?\",       \"Options\": [\"Duck Hunt\", \"Duck Season\",
-    \"Duck Shooter\", \"Quack Attack\"],       \"CorrectOption\": 0     },     {      
-    \"Statement\": \"En qu\xE9 a\xF1o se lanz\xF3 la consola de juegos Atari 5200?\",      
-    \"Options\": [\"1978\", \"1980\", \"1982\", \"1982\"],       \"CorrectOption\":
-    3     },     {       \"Statement\": \"Cu\xE1l de estos juegos de pelea fue lanzado
-    por SNK en 1994?\",       \"Options\": [\"Virtua Fighter\", \"King of Fighters
-    '94\", \"Street Fighter II\", \"Mortal Kombat II\"],       \"CorrectOption\":
-    1     },     {       \"Statement\": \"Cu\xE1l es el nombre del personaje principal
-    en la serie Mega Man de Capcom?\",       \"Options\": [\"X\", \"Zero\", \"Mega
-    Man\", \"Protoman\"],       \"CorrectOption\": 2     },     {       \"Statement\":
-    \"Cu\xE1l es el juego de aventuras gr\xE1ficas lanzado por Lucasfilm Games en
-    1987?\",       \"Options\": [\"Day of the Tentacle\", \"Maniac Mansion\", \"Monkey
-    Island\", \"Grim Fandango\"],       \"CorrectOption\": 1     },     {       \"Statement\":
-    \"En qu\xE9 a\xF1o debut\xF3 la consola Super Nintendo Entertainment System (SNES)?\",      
-    \"Options\": [\"1990\", \"1991\", \"1992\", \"1990\"],       \"CorrectOption\":
-    0     },     {       \"Statement\": \"Cu\xE1l es el juego de plataformas que
-    presenta a un personaje con una gorra roja y un martillo?\",       \"Options\":
-    [\"Super Mario Bros.\", \"Donkey Kong\", \"Mario Bros.\", \"Wrecking Crew\"],      
-    \"CorrectOption\": 2     },     {       \"Statement\": \"Cu\xE1l es el nombre
-    del personaje principal en el juego Castlevania?\",       \"Options\": [\"Simon
-    Belmont\", \"Alucard\", \"Dracula\", \"Richter Belmont\"],       \"CorrectOption\":
-    0     },     {       \"Statement\": \"En qu\xE9 a\xF1o se lanz\xF3 el juego Tetris
+    \"\xBFEn qu\xE9 a\xF1o se lanz\xF3 la consola Sega Genesis en Am\xE9rica del
+    Norte?\",       \"Options\": [\"1988\", \"1987\", \"1990\", \"1989\"],      
+    \"CorrectOption\": 3     },     {       \"Statement\": \"\xBFCu\xE1l es el nombre
+    del personaje principal en la serie de juegos Metroid?\",       \"Options\":
+    [\"Samus\", \"Ridley\", \"Kraid\", \"Mother Brain\"],       \"CorrectOption\":
+    0     },     {       \"Statement\": \"\xBFQu\xE9 juego populariz\xF3 el g\xE9nero
+    de los juegos de rol occidentales en la d\xE9cada de 1990?\",       \"Options\":
+    [\"Final Fantasy\", \"Baldur's Gate\", \"Diablo\", \"The Elder Scrolls\"],      
+    \"CorrectOption\": 1     },     {       \"Statement\": \"\xBFCu\xE1l es el juego
+    de carreras de karts lanzado por Nintendo en 1992?\",       \"Options\": [\"Crash
+    Team Racing\", \"Mario Kart\", \"Diddy Kong Racing\", \"Sonic & All-Stars Racing
+    Transformed\"],       \"CorrectOption\": 1     },     {       \"Statement\":
+    \"\xBFCu\xE1l es el t\xEDtulo completo del juego conocido como Duck Hunt?\",      
+    \"Options\": [\"Duck Hunt\", \"Duck Season\", \"Duck Shooter\", \"Quack Attack\"],      
+    \"CorrectOption\": 0     },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o
+    se lanz\xF3 la consola de juegos Atari 5200?\",       \"Options\": [\"1987\",
+    \"1980\", \"1981\", \"1982\"],       \"CorrectOption\": 3     },     {      
+    \"Statement\": \"\xBFCu\xE1l de estos juegos de pelea fue lanzado por SNK en
+    1994?\",       \"Options\": [\"Virtua Fighter\", \"King of Fighters '94\", \"Street
+    Fighter II\", \"Mortal Kombat II\"],       \"CorrectOption\": 1     },     {      
+    \"Statement\": \"\xBFCu\xE1l es el nombre del personaje principal en la serie
+    Mega Man de Capcom?\",       \"Options\": [\"X\", \"Zero\", \"Mega Man\", \"Protoman\"],      
+    \"CorrectOption\": 2     },     {       \"Statement\": \"\xBFCu\xE1l es el juego
+    de aventuras gr\xE1ficas lanzado por Lucasfilm Games en 1987?\",       \"Options\":
+    [\"Day of the Tentacle\", \"Maniac Mansion\", \"Monkey Island\", \"Grim Fandango\"],      
+    \"CorrectOption\": 1     },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o
+    debut\xF3 la consola Super Nintendo Entertainment System (SNES)?\",       \"Options\":
+    [\"1993\", \"1991\", \"1992\", \"1990\"],       \"CorrectOption\": 0     },    
+    {       \"Statement\": \"\xBFCu\xE1l es el juego de plataformas que presenta
+    a un personaje con una gorra azul?\",       \"Options\": [\"Mario Bros.\",\"Super
+    Mario Bros.\", \"Donkey Kong\",  \"Wrecking Crew\"],       \"CorrectOption\":
+    2     },     {       \"Statement\": \"\xBFCu\xE1l es el nombre del personaje
+    principal en el juego Castlevania?\",       \"Options\": [\"Simon Belmont\",
+    \"Alucard\", \"Dracula\", \"Richter Belmont\"],       \"CorrectOption\": 0    
+    },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o se lanz\xF3 el juego Tetris
     para Game Boy?\",       \"Options\": [\"1987\", \"1989\", \"1990\", \"1992\"],      
-    \"CorrectOption\": 2     },     {       \"Statement\": \"Qu\xE9 juego de rol
-    de acci\xF3n fue desarrollado por Blizzard Entertainment en 1996?\",       \"Options\":
-    [\"Diablo\", \"Baldur's Gate\", \"Fallout\", \"The Elder Scrolls II: Daggerfall\"],      
-    \"CorrectOption\": 0     },     {       \"Statement\": \"Cu\xE1l es el nombre
-    del protagonista en la serie de juegos Metal Gear?\",       \"Options\": [\"Solid
-    Snake\", \"Big Boss\", \"Liquid Snake\", \"Venom Snake\"],       \"CorrectOption\":
-    0     },     {       \"Statement\": \"En qu\xE9 a\xF1o debut\xF3 la consola Sega
-    Master System en Am\xE9rica del Norte?\",       \"Options\": [\"1984\", \"1985\",
-    \"1986\", \"1986\"],       \"CorrectOption\": 3     },     {       \"Statement\":
-    \"Cu\xE1l es el juego de aventuras gr\xE1ficas que presenta al pirata Guybrush
-    Threepwood?\",       \"Options\": [\"The Secret of Monkey Island\", \"Grim Fandango\",
-    \"Maniac Mansion\", \"Day of the Tentacle\"],       \"CorrectOption\": 0    
-    },     {       \"Statement\": \"En qu\xE9 a\xF1o se lanz\xF3 la consola Neo Geo
-    de SNK?\",       \"Options\": [\"1990\", \"1991\", \"1992\", \"1990\"],      
-    \"CorrectOption\": 3     },     {       \"Statement\": \"Cu\xE1l es el nombre
-    del personaje principal en el juego Pac-Man?\",       \"Options\": [\"Clyde\",
-    \"Blinky\", \"Inky\", \"Pac-Man\"],       \"CorrectOption\": 3     },     {      
-    \"Statement\": \"En qu\xE9 a\xF1o se lanz\xF3 el juego The Legend of Zelda: A
-    Link to the Past para SNES?\",       \"Options\": [\"1991\", \"1992\", \"1993\",
-    \"1991\"],       \"CorrectOption\": 3     },     {       \"Statement\": \"Cu\xE1l
-    es el juego de disparos en primera persona lanzado por id Software en 1993?\",      
-    \"Options\": [\"Doom\", \"Quake\", \"Wolfenstein 3D\", \"Duke Nukem 3D\"],      
-    \"CorrectOption\": 0     }   ] } "
+    \"CorrectOption\": 2     },     {       \"Statement\": \"\xBFQu\xE9 juego de
+    rol de acci\xF3n fue desarrollado por Blizzard Entertainment en 1996?\",      
+    \"Options\": [\"Diablo\", \"Baldur's Gate\", \"Fallout\", \"The Elder Scrolls
+    II: Daggerfall\"],       \"CorrectOption\": 0     },     {       \"Statement\":
+    \"\xBFCu\xE1l es el nombre del protagonista en la serie de juegos Metal Gear?\",      
+    \"Options\": [\"Solid Snake\", \"Big Boss\", \"Liquid Snake\", \"Venom Snake\"],      
+    \"CorrectOption\": 0     },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o
+    debut\xF3 la consola Sega Master System en Am\xE9rica del Norte?\",       \"Options\":
+    [\"1984\", \"1985\", \"1987\", \"1986\"],       \"CorrectOption\": 3     },    
+    {       \"Statement\": \"\xBFCu\xE1l es el juego de aventuras gr\xE1ficas que
+    presenta al pirata Guybrush Threepwood?\",       \"Options\": [\"The Secret of
+    Monkey Island\", \"Grim Fandango\", \"Maniac Mansion\", \"Day of the Tentacle\"],      
+    \"CorrectOption\": 0     },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o
+    se lanz\xF3 la consola Neo Geo de SNK?\",       \"Options\": [\"1989\", \"1991\",
+    \"1992\", \"1990\"],       \"CorrectOption\": 3     },     {       \"Statement\":
+    \"\xBFCu\xE1l es el nombre del personaje principal en el juego Pac-Man?\",      
+    \"Options\": [\"Clyde\", \"Blinky\", \"Inky\", \"Pac-Man\"],       \"CorrectOption\":
+    3     },     {       \"Statement\": \"\xBFEn qu\xE9 a\xF1o se lanz\xF3 el juego
+    The Legend of Zelda: A Link to the Past para SNES?\",       \"Options\": [\"1990\",
+    \"1992\", \"1993\", \"1991\"],       \"CorrectOption\": 3     },     {      
+    \"Statement\": \"\xBFCu\xE1l es el juego de disparos en primera persona lanzado
+    por id Software en 1993?\",       \"Options\": [\"Doom\", \"Quake\", \"Wolfenstein
+    3D\", \"Duke Nukem 3D\"],       \"CorrectOption\": 0     }   ] } "
   panelPrefab: {fileID: 4898344058552397184, guid: b33d7c3a0d461b8449d393907ca98547, type: 3}
   parentQuestions: {fileID: 2117528180}
   _points: 0
