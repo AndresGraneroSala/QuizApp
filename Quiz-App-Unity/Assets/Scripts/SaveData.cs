@@ -12,7 +12,7 @@ public class SaveData : MonoBehaviour
 
     IEnumerator SendData()
     {
-        string url = "https://tu-app.vercel.app/api/saveData";
+        string url = "https://quiz-5yvwtmymk-andres-projects-a21e9a35.vercel.app/api/saveData.json";
         string jsonData = "{ \"data\": \"tus_datos_a_guardar\" }";
 
         using (UnityWebRequest www = UnityWebRequest.PostWwwForm(url, jsonData))
