@@ -7,7 +7,7 @@
     },
     {
       "Statement": "¿Cuál es el nombre del fontanero en Donkey Kong?",
-      "Options": ["Luigi", "Mario", "Wario", "Bowser"],
+      "Options": ["Luigi", "Jumpman", "Wario", "Mario"],
       "CorrectOption": 1
     },
     {

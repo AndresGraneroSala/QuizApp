@@ -1045,7 +1045,7 @@ MonoBehaviour:
     lanz\xF3 el juego Super Mario Bros. para la NES?\",       \"Options\": [\"1983\",
     \"1985\", \"1988\", \"1990\"],       \"CorrectOption\": 1     },     {      
     \"Statement\": \"\xBFCu\xE1l es el nombre del fontanero en Donkey Kong?\",      
-    \"Options\": [\"Luigi\", \"Mario\", \"Wario\", \"Bowser\"],       \"CorrectOption\":
+    \"Options\": [\"Luigi\", \"Jumpman\", \"Wario\", \"Mario\"],       \"CorrectOption\":
     1     },     {       \"Statement\": \"\xBFCu\xE1l de estos juegos de arcade fue
     lanzado por primera vez en 1980?\",       \"Options\": [\"Pac-Man\", \"Space
     Invaders\", \"Centipede\", \"Galaga\"],       \"CorrectOption\": 0     },    
