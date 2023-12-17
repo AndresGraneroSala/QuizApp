@@ -822,8 +822,8 @@ MonoBehaviour:
   - Statement: "\xBFCu\xE1l es el nombre del fontanero en Donkey Kong?"
     Options:
     - Luigi
+    - Jumpman
     - Mario
-    - Wario
     - Bowser
     CorrectOption: 1
   - Statement: "\xBFCu\xE1l de estos juegos de arcade fue lanzado por primera vez
